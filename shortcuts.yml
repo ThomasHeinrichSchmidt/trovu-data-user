@@ -10,4 +10,4 @@ examplekeyword 2:
   tags:
   - example
 qw 1: https://www.qwant.com/?theme=-1&hc=0&hti=0&b=1&s=1&l=de&locale=de_DE&home=daily&q=<param1>&t=web
-mg 1: https://metager.de/meta/meta.ger3?focus=web&eingabe=<query>&encoding=utf8&lang=all&mgv=d9de6f532f3c29bf1bb9a3a7adb472f1&ua=1
+mtg 1: https://metager.de/meta/meta.ger3?focus=web&eingabe=<query>&encoding=utf8&lang=all&mgv=d9de6f532f3c29bf1bb9a3a7adb472f1&ua=1
