@@ -9,4 +9,4 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
-qw: https://www.qwant.com/?theme=-1&hc=0&hti=0&b=1&s=1&l=de&locale=de_DE&home=daily&q=<param1>&t=web
+qw 1: https://www.qwant.com/?theme=-1&hc=0&hti=0&b=1&s=1&l=de&locale=de_DE&home=daily&q=<param1>&t=web
