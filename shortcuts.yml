@@ -17,6 +17,6 @@ ct 0:
 ct 1: 
   url: https://www.heise.de/select/ct/archiv/<year>
   title: c't Heftarchiv fürs angegebene Jahr (2024, ...)
-dl 11:
-  url: https://www.deepl.com/de/translator#<lang>/de/<w1>%20<w2>%20<w3>%20<w4>%20<w5>%20<w6>%20<w7>%20<w8>%20<w9>%20<w10>
-  title: Deepl Translate, from any language (en,fr,it,es, ...) to Deutsch, maximum 10 words
+dl 2:
+  url: https://www.deepl.com/de/translator#<lang>/de/<query>
+  title: Deepl Translate, from language (en,fr,it,es, ...) to Deutsch
