@@ -20,3 +20,6 @@ ct 1:
 dl 2:
   url: https://www.deepl.com/de/translator#<lang>/de/<query>
   title: Deepl Translate, from language (en,fr,it,es, ...) to Deutsch
+tel 1:
+  url: https://www.dastelefonbuch.de/R%C3%BCckw%C3%A4rts-Suche/<Nummer>
+  title: Telefonbuch, Suche mit Nummer
